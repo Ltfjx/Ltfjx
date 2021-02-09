@@ -2,7 +2,7 @@
 ----
 ### 孤独是致死的疾病  
   
-**RLt Ltfjx RRRRLt ReLiTuu and more...**
+As **RLt Ltfjx RRRRLt ReLiTuu** and more...
 > Blog: [p0t4t0.1919810.com](https://p0t4t0.1919810.com)  
 BiliBili: [https://space.bilibili.com/2036269](https://space.bilibili.com/2036269)  
 NeteaseCloudMusic: [music.163.com/#/user/home?id=354717559](https://music.163.com/#/user/home?id=354717559)  
