@@ -9,4 +9,4 @@ NeteaseCloudMusic: [music.163.com/#/user/home?id=354717559](https://music.163.co
 Email: ltfjx2333@gmail.com | 2114085565@qq.com  
 
 ### **Working on project**  
-> [MuTruc](https://github.com/mutruc/mutruc) - with [Lingrottin](https://github.com/lingrottin)
+> [MuTruc](https://github.com/mutruc/mutruc) - with [@Lingrottin](https://github.com/lingrottin)
