@@ -11,3 +11,9 @@ Email: ltfjx2333@gmail.com | 2114085565@qq.com
 ### **Working on project**  
 > [Mutruc](https://github.com/mutruc/mutruc) - with [@TeamMutruc](https://github.com/orgs/mutruc/people)  
 > And various small projects...
+
+### **I'm learning...**
+> **C#**  
+> C++  
+> Java (May not)  
+> **In school (Yeah learning means LEARNING)**
