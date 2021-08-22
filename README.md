@@ -17,3 +17,9 @@ Email: ltfjx2333@gmail.com | 2114085565@qq.com
 > C++  
 > Java (May not)  
 > **In school (Yeah learning means LEARNING)**
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ltfjx&show_icons=true)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ltfjx&exclude_repo=Ltfjx.github.io,Crafting-DXY)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ltfjx)
+
