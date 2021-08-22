@@ -22,6 +22,6 @@ Email: ltfjx2333@gmail.com | 2114085565@qq.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ltfjx&show_icons=true)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ltfjx&exclude_repo=Ltfjx.github.io,Crafting-DXY)&nbsp;&nbsp;&nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ltfjx&exclude_repo=Ltfjx.github.io,Crafting-DXY)&nbsp;&nbsp;&nbsp;&nbsp;
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ltfjx)
 
