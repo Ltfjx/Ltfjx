@@ -9,6 +9,9 @@ As **RLt Ltfjx RRRRLt ReLiTuu** and more...
 NeteaseCloudMusic: [music.163.com/#/user/home?id=354717559](https://music.163.com/#/user/home?id=354717559)  
 Email: **ltfjx2333@gmail.com** | 2114085565@qq.com  
 
+### **Sorry of the delay!**
+> I have lots of school work to do recently :(
+
 ### **Working on project**  
 > **[Mutruc](https://github.com/mutruc/mutruc) with [@TeamMutruc](https://github.com/orgs/mutruc/people)** - An open-sourced music game  
 > **[NCM_Utilities](https://github.com/Ltfjx/NCM_Utilities)** - An unofficial toolbox for NeteaseCloudMusic  
