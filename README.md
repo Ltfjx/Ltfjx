@@ -4,7 +4,7 @@
   
 As **RLt Ltfjx RRRRLt ReLiTuu** and more...
 > **UOF Blog: [UOF.edu.kg](https://UOF.edu.kg)**  
-**Personal Blog: [p0t4t0.1919810.com](https://p0t4t0.1919810.com)** (may be replaced soon)  
+**Personal Blog: [akyuu.cn](https://akyuu.cn)**  
 **Bilibili: [https://space.bilibili.com/2036269](https://space.bilibili.com/2036269)**  
 **Last.fm: [https://www.last.fm/user/Ltfjx](https://www.last.fm/user/Ltfjx)**  
 NeteaseCloudMusic: [music.163.com/#/user/home?id=354717559](https://music.163.com/#/user/home?id=354717559)  
@@ -18,13 +18,11 @@ Email: **ltfjx2333@gmail.com** | 2114085565@qq.com
 > Various small projects...
 
 ### **I'm learning...**
-> **C#**  
-> C++  
-> Java (May not)  
+> HTML / EJS  
+> JavaScript / TypeScript  
+> Python  
 > **In school (Yeah learning means LEARNING)**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ltfjx&show_icons=true)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ltfjx&exclude_repo=Evershifting-Fountain,EF-old,Crafting-DXY)&nbsp;&nbsp;&nbsp;&nbsp;
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ltfjx)
 
