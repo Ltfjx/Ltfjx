@@ -21,8 +21,7 @@ Email: **ltfjx2333@gmail.com** | 2114085565@qq.com
 > HTML / EJS  
 > JavaScript / TypeScript  
 > Python  
-> **In school (Yeah learning means LEARNING)**
+> **In school (Yeah learning means LEARNING)** 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ltfjx&show_icons=true)  
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ltfjx)
-
+![](https://github-readme-stats.vercel.app/api?username=ltfjx&show_icons=true&theme=react)  
+![](https://github-readme-stats-git-fixwaka-605c1a-github-readme-stats-team.vercel.app/api/wakatime?username=ltfjx&langs_count=8&theme=react)
